@@ -7,6 +7,8 @@ youtube: "vpcKnqyNdSQ"
 author: "Ken Scambler"
 ---
 
+Functional programming has made great strides in the popular imagination, yet adoption of FP languages has often been challenging for companies, sputtering in fits and starts. Ken has been at the forefront of REA's successful adoption of FP over four years, and will share lessons learnt and traps avoided: how a human-first approach can succeed and scale.
+
 Notes:
 
 * Put the Human First
