@@ -3,12 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.demystifyfp.com/treasure-trove/quote/alberto-sw-development/</loc>
+    <lastmod>2018-10-19T16:35:57+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.demystifyfp.com/treasure-trove/video/adopting-fp-a-human-first-approach/</loc>
     <lastmod>2018-10-19T16:22:57+05:30</lastmod>
   </url>
   
   <url>
+    <loc>https://www.demystifyfp.com/treasure-trove/author/alberto-brandolini/</loc>
+    <lastmod>2018-10-19T16:35:57+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.demystifyfp.com/treasure-trove/tags/attitude/</loc>
+    <lastmod>2018-10-19T16:35:57+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.demystifyfp.com/treasure-trove/author/</loc>
+    <lastmod>2018-10-19T16:35:57+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -36,14 +54,26 @@
   </url>
   
   <url>
+    <loc>https://www.demystifyfp.com/treasure-trove/quote/</loc>
+    <lastmod>2018-10-19T16:35:57+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.demystifyfp.com/treasure-trove/categories/software-development/</loc>
+    <lastmod>2018-10-19T16:35:57+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.demystifyfp.com/treasure-trove/tags/</loc>
-    <lastmod>2018-10-19T16:22:57+05:30</lastmod>
+    <lastmod>2018-10-19T16:35:57+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.demystifyfp.com/treasure-trove/</loc>
-    <lastmod>2018-10-19T16:22:57+05:30</lastmod>
+    <lastmod>2018-10-19T16:35:57+05:30</lastmod>
     <priority>0</priority>
   </url>
   
