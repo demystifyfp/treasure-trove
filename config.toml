@@ -1,4 +1,4 @@
-title = "Demystify FP's Treasure-trove"
+title = "Treasure Trove"
 # Add an trailing slash to ensure that all fonts render correctly.
 baseURL = "https://www.demystifyfp.com/treasure-trove/"
 theme = "bilberry-hugo-theme"
@@ -48,7 +48,7 @@ publishDir = "docs"
 
   # Style configuration
     # set the width of your site's content
-    siteWidth = "800px"
+    siteWidth = "900px"
 
     # let hugo automatically resize and crop your images to the correct sizes
     resizeImages = true

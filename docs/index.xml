@@ -1,159 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Demystify FP&#39;s Treasure-trove</title>
+    <title>Treasure Trove</title>
     <link>https://www.demystifyfp.com/treasure-trove/</link>
-    <description>Recent content on Demystify FP&#39;s Treasure-trove</description>
+    <description>Recent content on Treasure Trove</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 01 Dec 2017 14:40:32 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 19 Oct 2018 16:22:57 +0530</lastBuildDate>
     
 	<atom:link href="https://www.demystifyfp.com/treasure-trove/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Albert Einstein - Sinn Des Lebens</title>
-      <link>https://www.demystifyfp.com/treasure-trove/quote/einstein-sinn-des-lebens.de/</link>
-      <pubDate>Fri, 01 Dec 2017 14:40:32 +0100</pubDate>
+      <title>Adopting FP - A Human First Approach</title>
+      <link>https://www.demystifyfp.com/treasure-trove/video/adopting-fp-a-human-first-approach/</link>
+      <pubDate>Fri, 19 Oct 2018 16:22:57 +0530</pubDate>
       
-      <guid>https://www.demystifyfp.com/treasure-trove/quote/einstein-sinn-des-lebens.de/</guid>
-      <description>Der Sinn des Lebens besteht nicht darin ein erfolgreicher Mensch zu sein, sondern ein wertvoller.</description>
-    </item>
-    
-    <item>
-      <title>Unterstützung und Diskussionen</title>
-      <link>https://www.demystifyfp.com/treasure-trove/article/support-and-discussions/index.de/</link>
-      <pubDate>Wed, 01 Nov 2017 18:10:14 +0100</pubDate>
-      
-      <guid>https://www.demystifyfp.com/treasure-trove/article/support-and-discussions/index.de/</guid>
-      <description>Hallo zusammen!
-Dieses Premium Theme ist unter einer Open Source Lizenz veröffentlicht worden, sodass du dieses für deinen Blog benutzen kannst.
-Bisher habe ich mehr als 75 Stunden Arbeitszeit investiert, um eins der besten Themes für Hugo zu erstellen, das es bisher für Hugo gibt.
-Wenn dir dieses Theme gefällt und du über alle neuen Erweiterungen und Funktionen informiert werden oder einfach Danke sagen möchtest, schau mal in unseren Discord Kanal:</description>
-    </item>
-    
-    <item>
-      <title>Meine Reise nach Schottland</title>
-      <link>https://www.demystifyfp.com/treasure-trove/gallery/my-trip-to-scotland/index.de/</link>
-      <pubDate>Wed, 01 Nov 2017 18:01:26 +0100</pubDate>
-      
-      <guid>https://www.demystifyfp.com/treasure-trove/gallery/my-trip-to-scotland/index.de/</guid>
-      <description>Im Juni 2017 habe ich mit meinem besten Freund Schottland für 2 Wochen besucht und bereist. Wir fuhren viel durch das schöne Land und sahen eine Reihe verschiedener Tiere: Rinder, Hirsche, Vögel, Delfine und Schafe. Überall Schafe!
-Auf einem schönen, kleinen Campingplatz sahen wir am frühen Morgen Rinder im Nebel und machten ein Foto. Dieses Bild hat seither den Titel &amp;ldquo;Rindviehcher im Nebel&amp;rdquo;.
-Wir fuhren mit dem Auto durch den Eurotunnel Calais-Folkstone nach Großbritannien und fuhren die Westküste nach Norden und besuchten die Isle of Skye - eine wunderschöne Insel, die man in seinem Leben auf jeden Fall gesehen haben sollte.</description>
-    </item>
-    
-    <item>
-      <title>Kilez More - Leben und Tod des Imperialismus</title>
-      <link>https://www.demystifyfp.com/treasure-trove/video/kilez-more-leben-und-tod-des-imperialismus.de/</link>
-      <pubDate>Wed, 01 Nov 2017 16:23:40 +0100</pubDate>
-      
-      <guid>https://www.demystifyfp.com/treasure-trove/video/kilez-more-leben-und-tod-des-imperialismus.de/</guid>
-      <description>&lt;p&gt;Kilez More ist ein großartiger Österreichischer Musiker.
-Die meisten seiner Songs haben einen politischen Hintergrund und geniale Texte!&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Kilez More - Life And Death Of The Hegemony</title>
-      <link>https://www.demystifyfp.com/treasure-trove/video/kilez-more-leben-und-tod-des-imperialismus/</link>
-      <pubDate>Wed, 01 Nov 2017 16:23:40 +0100</pubDate>
-      
-      <guid>https://www.demystifyfp.com/treasure-trove/video/kilez-more-leben-und-tod-des-imperialismus/</guid>
-      <description>&lt;p&gt;Kilez More is a great Austrian musician.
-Most of his songs have a political background and have amazing lyrics!&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Kilez More - New World Order</title>
-      <link>https://www.demystifyfp.com/treasure-trove/audio/kilez-more-new-world-order.de/</link>
-      <pubDate>Wed, 01 Nov 2017 16:12:47 +0100</pubDate>
-      
-      <guid>https://www.demystifyfp.com/treasure-trove/audio/kilez-more-new-world-order.de/</guid>
-      <description>Mit dem audio Post Type kann sehr einfach ein Spotify, SoundCloud, TuneIn oder Mixcloud Player integriert werden.
-Falls kein Player integriert werden soll, kann optional ein Titelbild mit Hilfe der featuredImage Option in der Markdown Datei verwendet werden.</description>
-    </item>
-    
-    <item>
-      <title>Kilez More - New World Order</title>
-      <link>https://www.demystifyfp.com/treasure-trove/audio/kilez-more-new-world-order/</link>
-      <pubDate>Wed, 01 Nov 2017 16:12:47 +0100</pubDate>
-      
-      <guid>https://www.demystifyfp.com/treasure-trove/audio/kilez-more-new-world-order/</guid>
-      <description>With the audio post type you can easily integrate a Spotify, SoundCloud, TuneIn or Mixcloud player to your post.
-If you don&amp;rsquo;t want to embed sound but use a header image you can set it with the featuredImage option in your markdown file.</description>
-    </item>
-    
-    <item>
-      <title>About Bilberry</title>
-      <link>https://www.demystifyfp.com/treasure-trove/page/about-bilberry/</link>
-      <pubDate>Wed, 01 Nov 2017 13:18:45 +0100</pubDate>
-      
-      <guid>https://www.demystifyfp.com/treasure-trove/page/about-bilberry/</guid>
-      <description>Bilberry is a premium theme for the Hugo Static Website Builder.
-It is full of little nice features, such as:
- built-in integration for the wonderful algolia search built-in integration for the powerful disqus comments gravatar and custom image integration for the header keyboard shortcut for the search (press the s key, type something and hit enter or esc) responsive design - optimized for desktop and mobile devices full internationalization (i18n) support (en, de, fr, ru, es out of the box!</description>
-    </item>
-    
-    <item>
-      <title>Über Bilberry</title>
-      <link>https://www.demystifyfp.com/treasure-trove/page/about-bilberry.de/</link>
-      <pubDate>Wed, 01 Nov 2017 13:18:45 +0100</pubDate>
-      
-      <guid>https://www.demystifyfp.com/treasure-trove/page/about-bilberry.de/</guid>
-      <description>Bilberry ist ein Premium Theme für den Hugo Static Website Builder.
-Das Theme beinhaltet viele Features wie bspw.:
- Integration für die Algolia-Suche Integration für Disqus Kommentare Gravatar-Integration oder eigenes Profilbild im Header Tastaturunterstützung für die Suche (s Taste drücken, etwas Schreiben, per enter bestätigen oder mit esc abbrechen) Responsive Design - optimiert für Desktop und mobile Geräte Volle Unterstützung für Übersetzungen (en, de, fr, ru, es bereits integriert!) Volle Unterstützung für mehrsprachige Seiten Verschiedene Post-Types (article, audio, code, gallery, link, page, picture, quote, video)  Einfache Konfiguration und Erweiterung um persönliche Typen   Dieses Theme ist eine Adaptopn des Lingonberry Themes von Anders Norén</description>
-    </item>
-    
-    <item>
-      <title>Github</title>
-      <link>https://www.demystifyfp.com/treasure-trove/page/github.de/</link>
-      <pubDate>Wed, 01 Nov 2017 13:17:56 +0100</pubDate>
-      
-      <guid>https://www.demystifyfp.com/treasure-trove/page/github.de/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Github</title>
-      <link>https://www.demystifyfp.com/treasure-trove/page/github/</link>
-      <pubDate>Wed, 01 Nov 2017 13:17:56 +0100</pubDate>
-      
-      <guid>https://www.demystifyfp.com/treasure-trove/page/github/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Duckduckgo.com</title>
-      <link>https://www.demystifyfp.com/treasure-trove/link/duckduckgo/</link>
-      <pubDate>Wed, 01 Nov 2017 13:05:27 +0100</pubDate>
-      
-      <guid>https://www.demystifyfp.com/treasure-trove/link/duckduckgo/</guid>
-      <description>A search engnine that respects your privacy.</description>
-    </item>
-    
-    <item>
-      <title>Edward Snowden About Privacy</title>
-      <link>https://www.demystifyfp.com/treasure-trove/quote/edward-snowden-privacy/</link>
-      <pubDate>Wed, 01 Nov 2017 13:01:14 +0100</pubDate>
-      
-      <guid>https://www.demystifyfp.com/treasure-trove/quote/edward-snowden-privacy/</guid>
-      <description>Arguing that you don&amp;rsquo;t care about the right to privacy because you have nothing to hide is no different than saying you don&amp;rsquo;t care about free speech because you have nothing to say.</description>
-    </item>
-    
-    <item>
-      <title>Installing Bilberry Theme</title>
-      <link>https://www.demystifyfp.com/treasure-trove/code/installing-bilberry-theme/</link>
-      <pubDate>Wed, 01 Nov 2017 09:31:27 +0100</pubDate>
-      
-      <guid>https://www.demystifyfp.com/treasure-trove/code/installing-bilberry-theme/</guid>
-      <description>&lt;p&gt;You will find all information to setup this theme with your hugo site
-on the official &lt;br&gt; &lt;a href=&#34;https://github.com/Lednerb/bilberry-hugo-theme&#34;&gt;Github Repository&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <guid>https://www.demystifyfp.com/treasure-trove/video/adopting-fp-a-human-first-approach/</guid>
+      <description>Notes:
+ Put the Human First Look after beginners and the experts will look after themselves Encourage beginner Talks &amp;amp; FP is for everyone Anti Patterns  Throw Away Hipster Attitude Wizard Tower - FP Cult - Didn&amp;rsquo;t carry people forward Consultants with Short Term Attitude   </description>
     </item>
     
   </channel>

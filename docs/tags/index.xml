@@ -1,120 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Demystify FP&#39;s Treasure-trove</title>
+    <title>Tags on Treasure Trove</title>
     <link>https://www.demystifyfp.com/treasure-trove/tags/</link>
-    <description>Recent content in Tags on Demystify FP&#39;s Treasure-trove</description>
+    <description>Recent content in Tags on Treasure Trove</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 01 Nov 2017 09:31:27 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 19 Oct 2018 16:22:57 +0530</lastBuildDate>
     
 	<atom:link href="https://www.demystifyfp.com/treasure-trove/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Bilberry Theme</title>
-      <link>https://www.demystifyfp.com/treasure-trove/tags/bilberry-theme/</link>
-      <pubDate>Wed, 01 Nov 2017 09:31:27 +0100</pubDate>
+      <title>Evangelism</title>
+      <link>https://www.demystifyfp.com/treasure-trove/tags/evangelism/</link>
+      <pubDate>Fri, 19 Oct 2018 16:22:57 +0530</pubDate>
       
-      <guid>https://www.demystifyfp.com/treasure-trove/tags/bilberry-theme/</guid>
+      <guid>https://www.demystifyfp.com/treasure-trove/tags/evangelism/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Discord</title>
-      <link>https://www.demystifyfp.com/treasure-trove/tags/discord/</link>
-      <pubDate>Wed, 01 Nov 2017 18:10:14 +0100</pubDate>
+      <title>Yow Conference</title>
+      <link>https://www.demystifyfp.com/treasure-trove/tags/yow-conference/</link>
+      <pubDate>Fri, 19 Oct 2018 16:22:57 +0530</pubDate>
       
-      <guid>https://www.demystifyfp.com/treasure-trove/tags/discord/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Eilean Donan Castle</title>
-      <link>https://www.demystifyfp.com/treasure-trove/tags/eilean-donan-castle/</link>
-      <pubDate>Wed, 01 Nov 2017 18:01:26 +0100</pubDate>
-      
-      <guid>https://www.demystifyfp.com/treasure-trove/tags/eilean-donan-castle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Free Speech</title>
-      <link>https://www.demystifyfp.com/treasure-trove/tags/free-speech/</link>
-      <pubDate>Wed, 01 Nov 2017 13:01:14 +0100</pubDate>
-      
-      <guid>https://www.demystifyfp.com/treasure-trove/tags/free-speech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Glennfinnan Viadukt</title>
-      <link>https://www.demystifyfp.com/treasure-trove/tags/glennfinnan-viadukt/</link>
-      <pubDate>Wed, 01 Nov 2017 18:01:26 +0100</pubDate>
-      
-      <guid>https://www.demystifyfp.com/treasure-trove/tags/glennfinnan-viadukt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>https://www.demystifyfp.com/treasure-trove/tags/hugo/</link>
-      <pubDate>Wed, 01 Nov 2017 09:31:27 +0100</pubDate>
-      
-      <guid>https://www.demystifyfp.com/treasure-trove/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kilez More</title>
-      <link>https://www.demystifyfp.com/treasure-trove/tags/kilez-more/</link>
-      <pubDate>Wed, 01 Nov 2017 16:23:40 +0100</pubDate>
-      
-      <guid>https://www.demystifyfp.com/treasure-trove/tags/kilez-more/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sag Danke</title>
-      <link>https://www.demystifyfp.com/treasure-trove/tags/sag-danke/</link>
-      <pubDate>Wed, 01 Nov 2017 18:10:14 +0100</pubDate>
-      
-      <guid>https://www.demystifyfp.com/treasure-trove/tags/sag-danke/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Schottland</title>
-      <link>https://www.demystifyfp.com/treasure-trove/tags/schottland/</link>
-      <pubDate>Wed, 01 Nov 2017 18:01:26 +0100</pubDate>
-      
-      <guid>https://www.demystifyfp.com/treasure-trove/tags/schottland/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Search Engine</title>
-      <link>https://www.demystifyfp.com/treasure-trove/tags/search-engine/</link>
-      <pubDate>Wed, 01 Nov 2017 13:05:27 +0100</pubDate>
-      
-      <guid>https://www.demystifyfp.com/treasure-trove/tags/search-engine/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Support</title>
-      <link>https://www.demystifyfp.com/treasure-trove/tags/support/</link>
-      <pubDate>Wed, 01 Nov 2017 18:10:14 +0100</pubDate>
-      
-      <guid>https://www.demystifyfp.com/treasure-trove/tags/support/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Truth Rap</title>
-      <link>https://www.demystifyfp.com/treasure-trove/tags/truth-rap/</link>
-      <pubDate>Wed, 01 Nov 2017 16:12:47 +0100</pubDate>
-      
-      <guid>https://www.demystifyfp.com/treasure-trove/tags/truth-rap/</guid>
+      <guid>https://www.demystifyfp.com/treasure-trove/tags/yow-conference/</guid>
       <description></description>
     </item>
     

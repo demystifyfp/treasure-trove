@@ -1,119 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Demystify FP&#39;s Treasure-trove</title>
+    <title>Categories on Treasure Trove</title>
     <link>https://www.demystifyfp.com/treasure-trove/categories/</link>
-    <description>Recent content in Categories on Demystify FP&#39;s Treasure-trove</description>
+    <description>Recent content in Categories on Treasure Trove</description>
     <generator>Hugo -- gohugo.io</generator>
     
 	<atom:link href="https://www.demystifyfp.com/treasure-trove/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Code</title>
-      <link>https://www.demystifyfp.com/treasure-trove/categories/code/</link>
-      <pubDate>Wed, 01 Nov 2017 09:31:27 +0100</pubDate>
+      <title>Functional Programming</title>
+      <link>https://www.demystifyfp.com/treasure-trove/categories/functional-programming/</link>
+      <pubDate>Fri, 19 Oct 2018 16:22:57 +0530</pubDate>
       
-      <guid>https://www.demystifyfp.com/treasure-trove/categories/code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Music</title>
-      <link>https://www.demystifyfp.com/treasure-trove/categories/music/</link>
-      <pubDate>Wed, 01 Nov 2017 16:23:40 +0100</pubDate>
-      
-      <guid>https://www.demystifyfp.com/treasure-trove/categories/music/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Musik</title>
-      <link>https://www.demystifyfp.com/treasure-trove/categories/musik/</link>
-      <pubDate>Wed, 01 Nov 2017 16:23:40 +0100</pubDate>
-      
-      <guid>https://www.demystifyfp.com/treasure-trove/categories/musik/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Politics</title>
-      <link>https://www.demystifyfp.com/treasure-trove/categories/politics/</link>
-      <pubDate>Wed, 01 Nov 2017 16:23:40 +0100</pubDate>
-      
-      <guid>https://www.demystifyfp.com/treasure-trove/categories/politics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Politik</title>
-      <link>https://www.demystifyfp.com/treasure-trove/categories/politik/</link>
-      <pubDate>Wed, 01 Nov 2017 16:23:40 +0100</pubDate>
-      
-      <guid>https://www.demystifyfp.com/treasure-trove/categories/politik/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Privacy</title>
-      <link>https://www.demystifyfp.com/treasure-trove/categories/privacy/</link>
-      <pubDate>Wed, 01 Nov 2017 13:05:27 +0100</pubDate>
-      
-      <guid>https://www.demystifyfp.com/treasure-trove/categories/privacy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reise</title>
-      <link>https://www.demystifyfp.com/treasure-trove/categories/reise/</link>
-      <pubDate>Wed, 01 Nov 2017 18:01:26 +0100</pubDate>
-      
-      <guid>https://www.demystifyfp.com/treasure-trove/categories/reise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Society</title>
-      <link>https://www.demystifyfp.com/treasure-trove/categories/society/</link>
-      <pubDate>Wed, 01 Nov 2017 13:01:14 +0100</pubDate>
-      
-      <guid>https://www.demystifyfp.com/treasure-trove/categories/society/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tutorials</title>
-      <link>https://www.demystifyfp.com/treasure-trove/categories/tutorials/</link>
-      <pubDate>Wed, 01 Nov 2017 09:31:27 +0100</pubDate>
-      
-      <guid>https://www.demystifyfp.com/treasure-trove/categories/tutorials/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Urlaub</title>
-      <link>https://www.demystifyfp.com/treasure-trove/categories/urlaub/</link>
-      <pubDate>Wed, 01 Nov 2017 18:01:26 +0100</pubDate>
-      
-      <guid>https://www.demystifyfp.com/treasure-trove/categories/urlaub/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Video</title>
-      <link>https://www.demystifyfp.com/treasure-trove/categories/video/</link>
-      <pubDate>Wed, 01 Nov 2017 16:23:40 +0100</pubDate>
-      
-      <guid>https://www.demystifyfp.com/treasure-trove/categories/video/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zitate</title>
-      <link>https://www.demystifyfp.com/treasure-trove/categories/zitate/</link>
-      <pubDate>Fri, 01 Dec 2017 14:40:32 +0100</pubDate>
-      
-      <guid>https://www.demystifyfp.com/treasure-trove/categories/zitate/</guid>
+      <guid>https://www.demystifyfp.com/treasure-trove/categories/functional-programming/</guid>
       <description></description>
     </item>
     
