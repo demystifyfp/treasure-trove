@@ -9,5 +9,113 @@
 	<atom:link href="https://www.demystifyfp.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Code</title>
+      <link>https://www.demystifyfp.com/categories/code/</link>
+      <pubDate>Wed, 01 Nov 2017 09:31:27 +0100</pubDate>
+      
+      <guid>https://www.demystifyfp.com/categories/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>https://www.demystifyfp.com/categories/music/</link>
+      <pubDate>Wed, 01 Nov 2017 16:23:40 +0100</pubDate>
+      
+      <guid>https://www.demystifyfp.com/categories/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Musik</title>
+      <link>https://www.demystifyfp.com/categories/musik/</link>
+      <pubDate>Wed, 01 Nov 2017 16:23:40 +0100</pubDate>
+      
+      <guid>https://www.demystifyfp.com/categories/musik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Politics</title>
+      <link>https://www.demystifyfp.com/categories/politics/</link>
+      <pubDate>Wed, 01 Nov 2017 16:23:40 +0100</pubDate>
+      
+      <guid>https://www.demystifyfp.com/categories/politics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Politik</title>
+      <link>https://www.demystifyfp.com/categories/politik/</link>
+      <pubDate>Wed, 01 Nov 2017 16:23:40 +0100</pubDate>
+      
+      <guid>https://www.demystifyfp.com/categories/politik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy</title>
+      <link>https://www.demystifyfp.com/categories/privacy/</link>
+      <pubDate>Wed, 01 Nov 2017 13:05:27 +0100</pubDate>
+      
+      <guid>https://www.demystifyfp.com/categories/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reise</title>
+      <link>https://www.demystifyfp.com/categories/reise/</link>
+      <pubDate>Wed, 01 Nov 2017 18:01:26 +0100</pubDate>
+      
+      <guid>https://www.demystifyfp.com/categories/reise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Society</title>
+      <link>https://www.demystifyfp.com/categories/society/</link>
+      <pubDate>Wed, 01 Nov 2017 13:01:14 +0100</pubDate>
+      
+      <guid>https://www.demystifyfp.com/categories/society/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorials</title>
+      <link>https://www.demystifyfp.com/categories/tutorials/</link>
+      <pubDate>Wed, 01 Nov 2017 09:31:27 +0100</pubDate>
+      
+      <guid>https://www.demystifyfp.com/categories/tutorials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urlaub</title>
+      <link>https://www.demystifyfp.com/categories/urlaub/</link>
+      <pubDate>Wed, 01 Nov 2017 18:01:26 +0100</pubDate>
+      
+      <guid>https://www.demystifyfp.com/categories/urlaub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video</title>
+      <link>https://www.demystifyfp.com/categories/video/</link>
+      <pubDate>Wed, 01 Nov 2017 16:23:40 +0100</pubDate>
+      
+      <guid>https://www.demystifyfp.com/categories/video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zitate</title>
+      <link>https://www.demystifyfp.com/categories/zitate/</link>
+      <pubDate>Fri, 01 Dec 2017 14:40:32 +0100</pubDate>
+      
+      <guid>https://www.demystifyfp.com/categories/zitate/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
