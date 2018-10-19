@@ -1,6 +1,6 @@
 title = "Demystify FP's Treasure-trove"
 # Add an trailing slash to ensure that all fonts render correctly.
-baseURL = "https://www.demystifyfp.com/"
+baseURL = "https://www.demystifyfp.com/treasure-trove/"
 theme = "bilberry-hugo-theme"
 
 enableRobotsTXT = true
