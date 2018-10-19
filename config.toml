@@ -29,7 +29,7 @@ publishDir = "docs"
 
   # Description and meta data for the search engines
   author = "Demystify FP"
-  description = "Curated list of talks, podcasts, quotes, blog posts on Software Development"
+  description = "Curated list of talks, podcasts, quotes, blog posts on Software Development."
   keywords = "software development talks,"
 
   # How many articles should be displayed at once?
