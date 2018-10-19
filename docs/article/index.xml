@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Articles on Demystify FP&#39;s Treasure-trove</title>
+    <title>Articles on Treasure Trove</title>
     <link>https://www.demystifyfp.com/treasure-trove/article/</link>
-    <description>Recent content in Articles on Demystify FP&#39;s Treasure-trove</description>
+    <description>Recent content in Articles on Treasure Trove</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 01 Nov 2017 18:10:14 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 19 Oct 2018 18:11:57 +0530</lastBuildDate>
     
 	<atom:link href="https://www.demystifyfp.com/treasure-trove/article/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Unterstützung und Diskussionen</title>
-      <link>https://www.demystifyfp.com/treasure-trove/article/support-and-discussions/index.de/</link>
-      <pubDate>Wed, 01 Nov 2017 18:10:14 +0100</pubDate>
+      <title>Small Functions considered Harmful</title>
+      <link>https://www.demystifyfp.com/treasure-trove/article/small-functions-harmful/</link>
+      <pubDate>Fri, 19 Oct 2018 18:11:57 +0530</pubDate>
       
-      <guid>https://www.demystifyfp.com/treasure-trove/article/support-and-discussions/index.de/</guid>
-      <description>Hallo zusammen!
-Dieses Premium Theme ist unter einer Open Source Lizenz veröffentlicht worden, sodass du dieses für deinen Blog benutzen kannst.
-Bisher habe ich mehr als 75 Stunden Arbeitszeit investiert, um eins der besten Themes für Hugo zu erstellen, das es bisher für Hugo gibt.
-Wenn dir dieses Theme gefällt und du über alle neuen Erweiterungen und Funktionen informiert werden oder einfach Danke sagen möchtest, schau mal in unseren Discord Kanal:</description>
+      <guid>https://www.demystifyfp.com/treasure-trove/article/small-functions-harmful/</guid>
+      <description>Original Article: Small Functions considered Harmful
+Highlights:
+ The best abstraction is an abstraction that optimizes for good enough, not perfect. That’s a feature, not a bug. Understanding this very salient nature of abstractions is the key to designing good ones.
+ Abstractions, in my opinion, can’t ever be entirely “right” or “wrong” since the line demarcating “right” from “wrong” is inherently blurred and ever-changing. Our carefully handcrafted artisanal “perfect” abstraction is only one business requirement or bug report away from being consigned to the status of “wrong”.</description>
     </item>
     
   </channel>
