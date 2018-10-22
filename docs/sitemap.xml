@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.demystifyfp.com/treasure-trove/video/now-you-are-thinking-in-functions/</loc>
+    <lastmod>2018-10-22T17:22:57+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.demystifyfp.com/treasure-trove/page/about/</loc>
     <lastmod>2018-10-19T18:11:57+05:30</lastmod>
   </url>
@@ -19,11 +24,6 @@
   
   <url>
     <loc>https://www.demystifyfp.com/treasure-trove/video/adopting-fp-a-human-first-approach/</loc>
-    <lastmod>2018-10-19T16:22:57+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.demystifyfp.com/treasure-trove/video/now-you-are-thinking-in-functions/</loc>
     <lastmod>2018-10-19T16:22:57+05:30</lastmod>
   </url>
   
@@ -70,13 +70,13 @@
   
   <url>
     <loc>https://www.demystifyfp.com/treasure-trove/categories/elm/</loc>
-    <lastmod>2018-10-19T16:22:57+05:30</lastmod>
+    <lastmod>2018-10-22T17:22:57+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.demystifyfp.com/treasure-trove/tags/elm-europe/</loc>
-    <lastmod>2018-10-19T16:22:57+05:30</lastmod>
+    <lastmod>2018-10-22T17:22:57+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -88,13 +88,13 @@
   
   <url>
     <loc>https://www.demystifyfp.com/treasure-trove/categories/functional-programming/</loc>
-    <lastmod>2018-10-19T16:22:57+05:30</lastmod>
+    <lastmod>2018-10-22T17:22:57+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.demystifyfp.com/treasure-trove/author/ian-mackenzie/</loc>
-    <lastmod>2018-10-19T16:22:57+05:30</lastmod>
+    <lastmod>2018-10-22T17:22:57+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -106,7 +106,7 @@
   
   <url>
     <loc>https://www.demystifyfp.com/treasure-trove/tags/oo-fp/</loc>
-    <lastmod>2018-10-19T16:22:57+05:30</lastmod>
+    <lastmod>2018-10-22T17:22:57+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -160,13 +160,13 @@
   
   <url>
     <loc>https://www.demystifyfp.com/treasure-trove/</loc>
-    <lastmod>2018-10-19T18:11:57+05:30</lastmod>
+    <lastmod>2018-10-22T17:22:57+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.demystifyfp.com/treasure-trove/video/</loc>
-    <lastmod>2018-10-19T16:22:57+05:30</lastmod>
+    <lastmod>2018-10-22T17:22:57+05:30</lastmod>
     <priority>0</priority>
   </url>
   

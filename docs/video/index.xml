@@ -5,10 +5,20 @@
     <link>https://www.demystifyfp.com/treasure-trove/video/</link>
     <description>Recent content in Videos on Treasure Trove</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 19 Oct 2018 16:22:57 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 22 Oct 2018 17:22:57 +0530</lastBuildDate>
     
 	<atom:link href="https://www.demystifyfp.com/treasure-trove/video/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Now you&#39;re thinking in functions</title>
+      <link>https://www.demystifyfp.com/treasure-trove/video/now-you-are-thinking-in-functions/</link>
+      <pubDate>Mon, 22 Oct 2018 17:22:57 +0530</pubDate>
+      
+      <guid>https://www.demystifyfp.com/treasure-trove/video/now-you-are-thinking-in-functions/</guid>
+      <description>This talk will look at some of the lessons learned from migrating the codebase of the elm-geometry package from its object-oriented origins in C++ and Scala to its current implementation in Elm.
+We’ll show how to take code that depends on various features found in object-oriented languages and rewrite that code in idiomatic Elm. For example, in a language without overloading or implicit conversions, how do you write functions that work with both vectors and unit vectors?</description>
+    </item>
     
     <item>
       <title>Adopting FP - A Human First Approach</title>
@@ -19,16 +29,6 @@
       <description>Functional programming has made great strides in the popular imagination, yet adoption of FP languages has often been challenging for companies, sputtering in fits and starts. Ken has been at the forefront of REA&amp;rsquo;s successful adoption of FP over four years, and will share lessons learnt and traps avoided: how a human-first approach can succeed and scale.
 Notes:
  Put the Human First Look after beginners and the experts will look after themselves Encourage beginner Talks &amp;amp; FP is for everyone Anti Patterns  Throw Away Hipster Attitude Wizard Tower - FP Cult - Didn&amp;rsquo;t carry people forward Consultants with Short Term Attitude   </description>
-    </item>
-    
-    <item>
-      <title>Now you&#39;re thinking in functions</title>
-      <link>https://www.demystifyfp.com/treasure-trove/video/now-you-are-thinking-in-functions/</link>
-      <pubDate>Fri, 19 Oct 2018 16:22:57 +0530</pubDate>
-      
-      <guid>https://www.demystifyfp.com/treasure-trove/video/now-you-are-thinking-in-functions/</guid>
-      <description>This talk will look at some of the lessons learned from migrating the codebase of the elm-geometry package from its object-oriented origins in C++ and Scala to its current implementation in Elm.
-We’ll show how to take code that depends on various features found in object-oriented languages and rewrite that code in idiomatic Elm. For example, in a language without overloading or implicit conversions, how do you write functions that work with both vectors and unit vectors?</description>
     </item>
     
   </channel>

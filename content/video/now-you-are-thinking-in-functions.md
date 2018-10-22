@@ -1,6 +1,6 @@
 ---
 title: "Now you're thinking in functions"
-date: 2018-10-19T16:22:57+05:30
+date: 2018-10-22T17:22:57+05:30
 categories: ["Functional Programming", "Elm"]
 tags: ["Elm Europe", "OO->FP"]
 youtube: "F4fuVJNnQoo"
