@@ -12,10 +12,10 @@
     
     <item>
       <title>Now you&#39;re thinking in functions</title>
-      <link>https://www.demystifyfp.com/treasure-trove/video/adopting-fp-a-human-first-approach.1/</link>
+      <link>https://www.demystifyfp.com/treasure-trove/video/now-you-are-thinking-in-functions/</link>
       <pubDate>Fri, 19 Oct 2018 16:22:57 +0530</pubDate>
       
-      <guid>https://www.demystifyfp.com/treasure-trove/video/adopting-fp-a-human-first-approach.1/</guid>
+      <guid>https://www.demystifyfp.com/treasure-trove/video/now-you-are-thinking-in-functions/</guid>
       <description>This talk will look at some of the lessons learned from migrating the codebase of the elm-geometry package from its object-oriented origins in C++ and Scala to its current implementation in Elm.
 We’ll show how to take code that depends on various features found in object-oriented languages and rewrite that code in idiomatic Elm. For example, in a language without overloading or implicit conversions, how do you write functions that work with both vectors and unit vectors?</description>
     </item>
